@@ -1,0 +1,36 @@
+main>div>ul{
+    display: flex;  
+    justify-content: space-between;
+
+}
+
+.Dhead{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    padding: 15px;
+    text-align: center;
+    border: dimgray;
+
+
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.db{
+    border: 1px solid grey;
+    margin-right: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.bb{
+    width: 200px;
+}
+h3{
+    text-align: left;
+    color: blue;
+}
+p{
+    text-align: left;
+}
