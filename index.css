@@ -44,7 +44,15 @@ section{
 section>div>h3{
     text-align: left;
     color: springgreen;
+}.image{
+    width: 200px;
+
 }
-section>div>img{
-    width: 600px;
+section>div{
+    border: 1px solid grey;
+    margin-right: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
 }
