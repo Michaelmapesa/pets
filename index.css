@@ -1,5 +1,4 @@
-main>div>ul{
-    display: flex;  
+header>div>ul{ 
     justify-content: space-between;
 
 }
@@ -53,6 +52,71 @@ section>div{
     margin-right: 15px;
     padding: 15px;
     border-radius: 10px;
-}
 
+}
+article>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    padding: 15px;
+    text-align: center;
+    border: dimgray;
+
+}
+.content-table{
+    border-collapse: collapse;
+    margin: 15px;
+    font-size: 2cm;
+    min-width: 1cm;
+    border-radius: 5px 5px 0 0;
+}
+.content-table thead tr {
+background-color: blue;
+color: #ffffff;
+text-align: left;
+font-weight: bold;
+border: gray;
+border: 10px;
+font-size: medium;
+margin: 15px;
+}
+.content-table th{
+    color: blue;
+    font: bold;
+    font-size: medium;
+    border: 10px;
+    border: gray;
+    margin: 15px;
+    padding: 15px 17px;
+}
+.content-table td{
+    color: darkred;
+    font: bold;
+    font-size: medium;
+    border: 10px;
+    border: gray;
+    margin: 15px; padding: 15px 17px;
+
+}
+.moi{
+padding: 15px 17px gray;
+margin: auto;
+color: blue;
+padding: 15px gray;
+border: red;
+shape-margin: 0ex;
+}
+section>div>h2{
+    color: red center;  
+}
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+form{
+    width: 100%;
+    padding: 20px 25px;
+    margin: 25px 0;
+    box-sizing: border-box;
 }
