@@ -3,7 +3,7 @@ By Michael Mapesa Wanzala
 
 ## Project name
 
-pets
+pets.
 
 ## Description
 
